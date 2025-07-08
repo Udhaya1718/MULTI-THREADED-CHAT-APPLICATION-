@@ -18,4 +18,5 @@ Multithreading (java.lang.Thread)
 I/O Streams (BufferedReader, PrintWriter)
 
 Output:
+![Image](https://github.com/user-attachments/assets/2701f7e2-8eb0-4ee0-aed2-0e3b0de2e8dd)
 
